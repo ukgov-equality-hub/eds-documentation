@@ -1,18 +1,18 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: docs.equality-data-store.service.gov.uk
+host: docs.equality-data-store.cabinetoffice.gov.uk
 
 # Header-related options
 show_govuk_logo: true
 service_name: Equalities Data Store
-service_link: https://equality-data-store.service.gov.uk
+service_link: https://equality-data-store.cabinetoffice.gov.uk
 phase: Beta
 
 # Links to show on right-hand-side of header
 header_links:
-  About: https://docs.equality-data-store.service.gov.uk
-  Get Started: https://docs.equality-data-store.service.gov.uk
+  About: https://docs.equality-data-store.cabinetoffice.gov.uk
+  Get Started: https://docs.equality-data-store.cabinetoffice.gov.uk
   Documentation: /
-  Support: https://docs.equality-data-store.service.gov.uk
+  Support: https://docs.equality-data-store.cabinetoffice.gov.uk
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: false
